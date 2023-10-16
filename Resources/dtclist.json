@@ -1,0 +1,26 @@
+[
+  {
+    "DTCCode": "P0133",
+    "DTCDetails": "O2 Sensor Circuit Slow Response (Bank 1 Sensor 1)"
+  },
+
+  {
+    "DTCCode": "P0112",
+    "DTCDetails": "Intake Air Temperature Circuit Low Input"
+  },
+
+  {
+    "DTCCode": "P0174",
+    "DTCDetails": "System too Lean (Bank 2)"
+  },
+
+  {
+    "DTCCode": "P0226",
+    "DTCDetails": "Throttle/Petal Position Sensor/Switch C Ciruit Range/Performance Problem"
+  },
+
+  {
+    "DTCCode": "P0281",
+    "DTCDetails": "Cylinder 7 Contribution/ Balance Fault"
+  }
+]
